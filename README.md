@@ -15,6 +15,10 @@
   <img alt="ESLint" src="https://res.cloudinary.com/practicaldev/image/fetch/s--dWcPMxnR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hk083ugohb8gcuv8xt8t.png" width="150" style="margin-left: 10px;">
 </p>
 
+<p align="center" style="margin-top: 30px;">
+  <img alt="Docker" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" width="80" style="margin-right: 10px;">
+</p>
+
 ## Features
 
 - Testing in [Github Actions](https://github.com/features/actions)
