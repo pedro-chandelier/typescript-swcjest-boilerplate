@@ -27,6 +27,7 @@
 - Standardized and Linting the code using [ESLint](https://eslint.org/)
 - Format code using [Prettier](https://prettier.io/)
 - Automate Github hooks using [Husky](https://github.com/typicode/husky) and [Lint Staged](https://github.com/okonet/lint-staged)
+- Dockerfile for development
 
 ## Packages
 
