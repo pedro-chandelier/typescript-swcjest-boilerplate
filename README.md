@@ -7,7 +7,7 @@
 
 <p align="center" style="margin-top: 30px;">
   <img alt="Jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="70" style="margin-right: 10px;">
-  <img alt="SWC" src="https://swc.rs/img/swc.png" width="160" style="margin-left: 10px;">
+  <img alt="SWC" src="https://swc.rs/logo.png" width="160" style="margin-left: 10px;">
 </p>
 
 <p align="center" style="margin-top: 30px;">
@@ -40,10 +40,15 @@
 - SWC
 - Lint Staged
 
+## Inspiration
+
+This project is a fork from lamualfa/template-node project-name
+I'm adding my favorite tools on top of it to achieve development productivity
+
 ## Installation
 
 with NPX
 
 ```
-npx degit lamualfa/template-node project-name
+npx degit pedro-chandelier/typescript-swcjest-boilerplate project-name
 ```
